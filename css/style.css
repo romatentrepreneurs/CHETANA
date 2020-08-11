@@ -321,7 +321,7 @@ a {
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .home_banner_area {
-  background: url(../img/banner/home.jpg) no-repeat center bottom;
+  background: url(../img/background/1.jpg) no-repeat center bottom;
   position: relative;
   z-index: 1;
   height: 900px; }
@@ -371,7 +371,7 @@ a {
           border: 1px solid #ea2c58; }
 
 .banner-area {
-  background: url(../img/banner/home.jpg) center;
+  background: url(../img/background/6.jpg) center;
   background-size: cover; }
   .banner-area .primary-btn {
     padding-left: 30px;
