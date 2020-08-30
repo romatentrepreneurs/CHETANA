@@ -560,6 +560,10 @@ a {
   .experience_donation h1 {
     color: #ffffff;
     margin-bottom: 20px; }
+  .experience_donation h4 {
+    color: #ffffff;
+    max-width: 680px;
+    margin: auto; }
   .experience_donation p {
     color: #ffffff;
     max-width: 680px;
