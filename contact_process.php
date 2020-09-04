@@ -15,8 +15,8 @@
 
     $subject = "You have a message from chetanaguna.org .";
 
-    $logo = 'img/logo.png';
-    $link = '#';
+    $logo = 'img/logo.jpg';
+    $link = 'chetanaguna.org';
 
 	$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Express Mail</title></head><body>";
 	$body .= "<table style='width: 100%;'>";
