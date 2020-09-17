@@ -92,7 +92,7 @@
     if (document.getElementById('mapBox')) {
         var map = new google.maps.Map(document.getElementById('mapBox'), {
             zoom: 12,
-            center: new google.maps.LatLng(23.81, 90.41),
+            center: new google.maps.LatLng(9.7805230,  76.6038510),
             mapTypeId: google.maps.MapTypeId.ROADMAP
         });
 
