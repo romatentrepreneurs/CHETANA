@@ -12,7 +12,7 @@
  		 if (dots.style.display === "none") {
   	 		 dots.style.display = "inline";
    			 btnText.innerHTML = "Read more";
-  			  moreText.style.display = "none";
+  			 moreText.style.display = "none";
  		 } 
 		else {
  		   	dots.style.display = "none";
