@@ -141,6 +141,14 @@ a {
     .section_gap {
       padding: 50px 0px; } }
 
+
+
+#more {display: none;}
+
+
+
+
+
 .section_gap_custom {
   padding: 120px 0px 90px; }
   @media (max-width: 1224px) {
